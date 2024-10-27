@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://example.com</id>
+    <title>Hexo • Posts by &#34;学习&#34; category</title>
+    <link href="http://example.com" />
+    <updated>2024-10-25T02:05:00.170Z</updated>
+    <entry>
+        <id>http://example.com/2024/10/25/study/one/</id>
+        <title></title>
+        <link rel="alternate" href="http://example.com/2024/10/25/study/one/"/>
+        <content type="html"></content>
+        <updated>2024-10-25T02:05:00.170Z</updated>
+    </entry>
+</feed>

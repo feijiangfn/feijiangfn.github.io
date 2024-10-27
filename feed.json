@@ -5,10 +5,10 @@
     "home_page_url": "http://example.com",
     "items": [
         {
-            "id": "http://example.com/2024/10/25/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%96%87%E7%AB%A0/",
-            "url": "http://example.com/2024/10/25/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%96%87%E7%AB%A0/",
-            "title": "我的第一个文章",
-            "date_published": "2024-10-25T02:05:00.000Z",
+            "id": "http://example.com/2024/10/25/study/one/",
+            "url": "http://example.com/2024/10/25/study/one/",
+            "title": "",
+            "date_published": "2024-10-25T02:05:00.170Z",
             "content_html": "",
             "tags": []
         },

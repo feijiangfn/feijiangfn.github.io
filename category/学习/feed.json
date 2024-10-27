@@ -1,0 +1,16 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Hexo • All posts by \"学习\" category",
+    "description": "",
+    "home_page_url": "http://example.com",
+    "items": [
+        {
+            "id": "http://example.com/2024/10/25/study/one/",
+            "url": "http://example.com/2024/10/25/study/one/",
+            "title": "",
+            "date_published": "2024-10-25T02:05:00.170Z",
+            "content_html": "",
+            "tags": []
+        }
+    ]
+}
